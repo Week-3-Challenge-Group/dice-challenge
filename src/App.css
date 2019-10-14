@@ -1,22 +1,17 @@
-.App {
+.Dice_Button {
+  width: 45%;
+  float: left;
+  height: 500px;
+  border: 1px solid blue;
   text-align: center;
+  display: inline-block;
 }
 
-.App-logo {
-  height: 40vmin;
-}
+.Roll_List {
+  width: 45%;
+  float: right;
+  text-align: center;
+  border: 1px solid blue;
+  display: inline-block;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
 }
